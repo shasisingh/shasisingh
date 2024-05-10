@@ -10,9 +10,7 @@
 ✍️ &nbsp;In my free time, I like to learn a new programming language.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at info.shashisingh@gmail.com! I'll try to respond as soon as I can.
-<!-- 📄 &nbsp; Please have a look at my [Portfolio](https://rafi-portfolio.vercel.app/) for more details about me. I'm open to feedback and suggestions! -->
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
@@ -35,6 +33,8 @@
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shasisingh&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 </p> 
 
 ### 🤝🏻 &nbsp;![Connect with Me] (https://www.linkedin.com/in/shasi/)
