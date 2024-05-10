@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I like to explore new technologies.\
-🎓 &nbsp;I'm currently working for Rabobank netherlands.\
+🎓 &nbsp;I'm currently working for Rabobank Nederland.\
 🌱 &nbsp;I'm a Java developer.\
 ✍️ &nbsp;In my free time, I like to learn a new programming language.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
