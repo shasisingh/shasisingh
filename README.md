@@ -37,5 +37,5 @@
 </a>
 </p> 
 
-### 🤝🏻 &nbsp;![Connect with Me](https://www.linkedin.com/in/shasi/)
+### 🤝🏻 &nbsp;![Connect with Me] (https://www.linkedin.com/in/shasi/)
 
